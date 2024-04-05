@@ -1,102 +1,14 @@
-<!-- <p>
-  <img align='right' height='140' style="margin-right: 0px" src='assets/concept15.svg' alt='Social Networks'>
-  <h1>Toba Senju</h1>
-  <div align="left"> 
-    <a href="mailto:atos980411@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="30" /></a>
-    &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/I1nsPdhKPYWu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="30" /></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/Wizard_Dev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="30" /></a>
-    &nbsp;&nbsp;
-    <a href="https://discord.gg/RealToma#7155" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="30" /></a>
-    &nbsp;&nbsp;
-  </div>
-</p>
-<br/>
- -->
+[![](https://visitcount.itsvg.in/api?id=atosdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img height="170px" width="100" src="assets/left.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealToma&theme=discord_old_blurple&show_icons=true&locale=en" alt="RealToma" height="150px"/>
-  <img height="170px" width="100" src="assets/right.png">
-</div>
+# 💻Tech Stack
 
-<div>
-  <img align="left" src="https://visitcount.itsvg.in/api?id=RealToma&icon=0&color=0" alt="RealToma" />
-  <h2 align="right" style="margin-top: 0px">Toma</h2>
-</div>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+# 📊GitHub Stats :
 <p align="center">
-   <a href="https://github.com/RealToma">
-      <img src="https://github-profile-trophy.vercel.app/?username=RealToma&margin-w=15&margin-h=15&theme=gitdimmed" alt="RealToma" />
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosdev&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
-
-<p align='center' style="display: flex; justify-content: center; grid-gap: 30px">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RealToma&theme=discord_old_blurple" alt="RealToma" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealToma&theme=discord_old_blurple&layout=compact&langs_count=8" alt="RealToma" height="150px"/>
+<p align='center' style="display: flex; justify-content: center; grid-gap: 10px">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=atosdev&theme=radical&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img align="center" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=atosdev&theme=radical&hide_border=true"/>
 </p>
-
-<!-- <h3 align="left">Top skills:</h3>
-
-<p align="center">
-  <a href="https://github.com/RealToma">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,solidity,rust,redux,styledcomponents,tailwind,bootstrap,materialui,graphql,angular,nextjs,figma,remix,html,css,sass,js,ts,mongodb,mysql,git,github,laravel,django,dotnet," />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-  <a href="https://github.com/RealToma">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,java,rust,solidity,ruby,go,graphql,php,html,css,sass,react,vue,svelte,angular,jquery,nodejs,express,nuxtjs,nextjs,nestjs,laravel,django,dotnet,tailwind,bootstrap,styledcomponents,materialui,mongodb,mysql,sqlite,bots,git,github,redux,visualstudio,vscode,figma,eclipse,powershell,linux,docker,unity,remix,codepen,ps,py,qt,svg,webpack,spring,emotion,linkedin,stackoverflow,discord,flutter" />
-  </a>
-</p>
-
-<h3 align="left">A passionate fullstack blockchain engineer</h3>
-<p align="center"> 
-  <div align="left" width="80%">
-  <ul>
-    <li>I'm a fullstack / blockchain engineer with over 5 years of professional experience working on enterprise and startup projects.</li>
-    <li>Especially, I have rich experience with blockchain frontend and backend technology and I have built a lot of dapps such as DEXTools, DAO, NFT marketplace, and wallet.</li>
-    <li>I am meticulous with detail and have keen eyes for good UI/UX design specialized in using agile methodology.</li>
-    <li>The most important aspect is that I am a self-driven and passionate creator who loves to work creatively.</li>
-    <li>I love to give client’s clean and perfect result and It is my final goal to satisfy all requirements of clients.</li>
-    <li>To prove my skills and experience, I'm willing to carry out a few tasks before getting hired.</li>
-  </ul>
-  </div>
-</p>
-
-<h3 align="left">Do you need:</h3>
-<p align="center"> 
-  <div align="left" width="80%">
-    <ul>
-      <li>A Senior Frontend Developer focused on Vue.js and +7 years of experience?</li>
-      <li>Support to build a complex web application or mobile app?</li>
-      <li>A T-shaped developer with frontend expertise and cross-discipline competencies in backend development, test engineering, and DevOps?</li>
-      <li>A developer who focuses on high-quality, clean, well-documented, and easily maintainable code?</li>
-      <li>A reliable, honest, and professional partner to successfully finish your project within budget and time?</li>
-    </ul>
-  </div>
-</p>
-
-<br/>
-
-
-<p align="center">
-  <a href="https://skillicons.dev"></a>
-  <a href="https://github.com/RealToma">
-    <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,ae,aiscript,alpinejs,androidstudio,ansible,apollo,appwrite,arduino,astro,au,autocad,aws,azul,azure,bash,bevy,blender,bsd,cassandra,clojure,cloudflare,coffeescript,dart,deno,dynamodb,electron,elixir,emacs,ember,fastapi,fediverse,firebase,flask,flutter,fortran,gamemakerstudio,gatsby,gcp,gitlab,gherkin,godot,grafana,gtk,haskell,haxe,haxeflixel,heroku,idea,ai,instagram,jenkins,jest,julia,kotlin,ktor,kubernetes,latex,lua,md,mastodon,misskey,neovim,netlify,nginx,nim,ocaml,octave,openshift,openstack,perl,plan9,postgres,pr,prisma,prometheus,pug,pytorch,r,rails,raspberrypi,redis,regex,rocket,rollupjs,supabase,scala,swift,symfony,tauri,tensorflow,twitter,unreal,v,vala,vim,vite,wasm,windicss,wordpress,workers,zig," />
-  </a>
-  Co-authored-by: <toba.senju@gmail.com>
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RealToma" alt="RealToma" height="235px"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealToma&theme=nord_dark" alt="RealToma" height="235px"/>
-</p> -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>

@@ -8,7 +8,7 @@
     &nbsp;&nbsp;
     <a href="https://t.me/Wizard_Dev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="30" /></a>
     &nbsp;&nbsp;
-    <a href="https://discord.gg/AtosDev#7155" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="30" /></a>
+    <a href="https://discord.gg/RealToma#7155" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="30" /></a>
     &nbsp;&nbsp;
   </div>
 </p>
@@ -17,30 +17,30 @@
 
 <div align="center">
   <img height="170px" width="100" src="assets/left.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtosDev&theme=discord_old_blurple&show_icons=true&locale=en" alt="AtosDev" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RealToma&theme=discord_old_blurple&show_icons=true&locale=en" alt="RealToma" height="150px"/>
   <img height="170px" width="100" src="assets/right.png">
 </div>
 
 <div>
-  <img align="left" src="https://visitcount.itsvg.in/api?id=atosdev&icon=0&color=0" alt="AtosDev" />
-  <h2 align="right" style="margin-top: 0px">Toba Senju</h2>
+  <img align="left" src="https://visitcount.itsvg.in/api?id=RealToma&icon=0&color=0" alt="RealToma" />
+  <h2 align="right" style="margin-top: 0px">Toma</h2>
 </div>
 
 <p align="center">
-   <a href="https://github.com/AtosDev">
-      <img src="https://github-profile-trophy.vercel.app/?username=AtosDev&margin-w=15&margin-h=15&theme=gitdimmed" alt="AtosDev" />
+   <a href="https://github.com/RealToma">
+      <img src="https://github-profile-trophy.vercel.app/?username=RealToma&margin-w=15&margin-h=15&theme=gitdimmed" alt="RealToma" />
    </a>
 </p>
 
 <p align='center' style="display: flex; justify-content: center; grid-gap: 30px">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtosDev&theme=discord_old_blurple" alt="AtosDev" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtosDev&theme=discord_old_blurple&layout=compact&langs_count=8" alt="AtosDev" height="150px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RealToma&theme=discord_old_blurple" alt="RealToma" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealToma&theme=discord_old_blurple&layout=compact&langs_count=8" alt="RealToma" height="150px"/>
 </p>
 
 <!-- <h3 align="left">Top skills:</h3>
 
 <p align="center">
-  <a href="https://github.com/AtosDev">
+  <a href="https://github.com/RealToma">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,solidity,rust,redux,styledcomponents,tailwind,bootstrap,materialui,graphql,angular,nextjs,figma,remix,html,css,sass,js,ts,mongodb,mysql,git,github,laravel,django,dotnet," />
   </a>
 </p>
@@ -48,7 +48,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://github.com/AtosDev">
+  <a href="https://github.com/RealToma">
     <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,java,rust,solidity,ruby,go,graphql,php,html,css,sass,react,vue,svelte,angular,jquery,nodejs,express,nuxtjs,nextjs,nestjs,laravel,django,dotnet,tailwind,bootstrap,styledcomponents,materialui,mongodb,mysql,sqlite,bots,git,github,redux,visualstudio,vscode,figma,eclipse,powershell,linux,docker,unity,remix,codepen,ps,py,qt,svg,webpack,spring,emotion,linkedin,stackoverflow,discord,flutter" />
   </a>
 </p>
@@ -85,18 +85,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev"></a>
-  <a href="https://github.com/AtosDev">
+  <a href="https://github.com/RealToma">
     <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,ae,aiscript,alpinejs,androidstudio,ansible,apollo,appwrite,arduino,astro,au,autocad,aws,azul,azure,bash,bevy,blender,bsd,cassandra,clojure,cloudflare,coffeescript,dart,deno,dynamodb,electron,elixir,emacs,ember,fastapi,fediverse,firebase,flask,flutter,fortran,gamemakerstudio,gatsby,gcp,gitlab,gherkin,godot,grafana,gtk,haskell,haxe,haxeflixel,heroku,idea,ai,instagram,jenkins,jest,julia,kotlin,ktor,kubernetes,latex,lua,md,mastodon,misskey,neovim,netlify,nginx,nim,ocaml,octave,openshift,openstack,perl,plan9,postgres,pr,prisma,prometheus,pug,pytorch,r,rails,raspberrypi,redis,regex,rocket,rollupjs,supabase,scala,swift,symfony,tauri,tensorflow,twitter,unreal,v,vala,vim,vite,wasm,windicss,wordpress,workers,zig," />
   </a>
   Co-authored-by: <toba.senju@gmail.com>
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AtosDev" alt="AtosDev" height="235px"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=RealToma" alt="RealToma" height="235px"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atosdev&theme=nord_dark" alt="AtosDev" height="235px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealToma&theme=nord_dark" alt="RealToma" height="235px"/>
 </p> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>

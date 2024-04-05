@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=atosdev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RealToma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻Tech Stack
 
@@ -6,9 +6,9 @@
 
 # 📊GitHub Stats :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosdev&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealToma&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 <p align='center' style="display: flex; justify-content: center; grid-gap: 10px">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=atosdev&theme=radical&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img align="center" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=atosdev&theme=radical&hide_border=true"/>
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=RealToma&theme=radical&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img align="center" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=RealToma&theme=radical&hide_border=true"/>
 </p>

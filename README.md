@@ -1,6 +1,6 @@
-<img align="left" src="https://visitcount.itsvg.in/api?id=RealToma&icon=0&color=0" alt="RealToma" />
+![](https://komarev.com/ghpvc/?username=RealToma&style=for-the-badge)
 <br/>
-<br/>
+
 
 ### 📝Summary
 
